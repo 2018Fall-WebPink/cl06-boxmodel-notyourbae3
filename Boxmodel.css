@@ -1,0 +1,33 @@
+/*
+* Emily
+* Due Date
+* Box model
+*/
+
+/* The universal selector */
+
+* {
+margin: 15px;
+    padding: 5px;
+}
+
+/* Body attributes here */
+
+body {
+    background-color: white;
+    border: 3px dotted blue;
+
+}
+
+main {
+   border: 2px solid red; 
+    
+}
+
+h1 { 
+border: 1px dashed black;
+}
+
+p { 
+border: 1px dashed black;
+}
